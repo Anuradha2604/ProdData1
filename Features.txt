@@ -2,3 +2,4 @@ Features in Application:
 - Login
 - Logout
 - Signup
+- User Profile
