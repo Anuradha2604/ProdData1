@@ -1,3 +1,4 @@
 Features in Application:
 - Login
 - Logout
+- Signup
